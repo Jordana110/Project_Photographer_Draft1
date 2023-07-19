@@ -10,7 +10,7 @@
 }
 
 body {
-    margin: 20px 60px 120px 120px;
+    margin: 20px 20px 120px 120px;
     max-width: 1400px;
     background-color: #f5f5f5;
 }
@@ -65,7 +65,7 @@ a {
 }
 
 /*===============FOOTER===========*/
-.footer {
+footer {
     padding-top: 40px;
     background-color: #afafaf;
     font-size: 17px;
@@ -96,7 +96,7 @@ a {
 
 /*====== FORM IN FOOTER=================*/
 
-.fieldset {
+fieldset {
     outline: none;
     border: none;
 }
@@ -125,4 +125,8 @@ h3 {
     width: 100%;
     padding: 10px;
     text-align: center;
+}
+
+.input-box {
+    margin-top: 10px;
 }
